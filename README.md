@@ -22,3 +22,7 @@ Bu proje, **React** kullanılarak geliştirilmiş bir **Ayakkabı Satış Websit
 - **Ödeme Süreci (Simülasyon)**: Kullanıcılar sepetlerini onayladıktan sonra ödeme simülasyonu gerçekleştirebilirler.
 - **Filtreleme ve Arama**: Ayakkabılar, fiyat, kategori ve popülerlik gibi kriterlere göre filtrelenebilir ve aranabilir.
 - **XSS Koruması**: Kullanıcıdan gelen veriler XSS saldırılarına karşı temizlenir.
+## Ekran Görüntüsü
+
+https://github.com/user-attachments/assets/b3cbc548-aa4c-41bc-8b03-4a0223bd47ba
+

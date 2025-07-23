@@ -24,5 +24,6 @@ Bu proje, **React** kullanılarak geliştirilmiş bir **Ayakkabı Satış Websit
 - **XSS Koruması**: Kullanıcıdan gelen veriler XSS saldırılarına karşı temizlenir.
 ## Ekran Görüntüsü
 
-https://github.com/user-attachments/assets/b3cbc548-aa4c-41bc-8b03-4a0223bd47ba
+![shoess](https://github.com/user-attachments/assets/57f05dac-5b84-49b9-b7a7-5318bc2477a7)
+
 
